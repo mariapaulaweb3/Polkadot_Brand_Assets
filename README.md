@@ -1,3 +1,5 @@
+![Banner](https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Banners/polka_Twitter_banner_1500x500.png) 
+
 # What is Polkadot? 
 
 Polkadot is a protocol that allows independent blockchains to exchange information. Polkadot is an inter-chain blockchain protocol which unlike internet messaging protocols (e.g., TCP/IP) also enforces the order and the validity of the messages between the chains. This interoperability also allows the additional benefit of scalability by creating a general environment for multiple state machines.  
@@ -6,7 +8,7 @@ Polkadot is a protocol that allows independent blockchains to exchange informati
 
 For commercial usage please contact <a href="mailto:hello@polkadot.network ">hello@polkadot.network</a>
 
-For additonal media inquiries please contact press@polkadot.network <a href="mailto:press@polkadot.network ">press@polkadot.network</a>
+For additonal media inquiries please contact <a href="mailto:press@polkadot.network ">press@polkadot.network</a>
 
 For non-commercial usage please notify us at <a href="mailto:hello@polkadot.network ">hello@polkadot.network</a>
 
