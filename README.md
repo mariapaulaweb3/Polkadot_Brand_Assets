@@ -16,9 +16,13 @@ For non-commercial usage please notify us at <a href="mailto:hello@polkadot.netw
 
 ## Polkadot logos (web use - vectorized) 
 
-Polkadot Circle Logo
-Polkadot Dots Logo 
-Polkadot Rectangle Logo  
+
+<a href="https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/Logos/Polka_Rectangle_Logo.eps">Polkadot Rectangle Logo</a>
+
+<a href="https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/Logos/Polka_Circle_Logo.eps">Polkadot Circle Logo</a>
+
+
+<a href="https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/Logos/Polka_Circle_Logo.eps">Polkadot Dots Logo</a>
 
 
 ## Polkadot Brand Colors
