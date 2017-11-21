@@ -5,8 +5,11 @@ Polkadot is a protocol that allows independent blockchains to exchange informati
 *NOTE: DO NOT USE THE POLKADOT LOGO OR ANY BRANDING ELEMENTS WITHOUT OUR CONSENT. YOU CAN CONTACT US HERE:*
 
 For commerical usage please contact hello@polkadot.network
+
 For additonal media inquiries please contact press@polkadot.network
+
 For non-commercial usage please notify us at hello@polkadot.network
+
 
 
 ## Polkadot logos (web use - vectorized) 
