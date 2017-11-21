@@ -4,11 +4,11 @@ Polkadot is a protocol that allows independent blockchains to exchange informati
 
 *NOTE: DO NOT USE THE POLKADOT LOGO OR ANY BRANDING ELEMENTS WITHOUT OUR CONSENT. YOU CAN CONTACT US HERE:*
 
-For commerical usage please contact hello@polkadot.network
+For commercial usage please contact <a href="mailto:hello@polkadot.network ">hello@polkadot.network</a>
 
-For additonal media inquiries please contact press@polkadot.network
+For additonal media inquiries please contact press@polkadot.network <a href="mailto:press@polkadot.network ">press@polkadot.network</a>
 
-For non-commercial usage please notify us at hello@polkadot.network
+For non-commercial usage please notify us at <a href="mailto:hello@polkadot.network ">hello@polkadot.network</a>
 
 
 
@@ -21,20 +21,36 @@ Polkadot Rectangle Logo
 
 ## Polkadot Brand Colors
 
-Primary colors: 
+
+### Primary colors: 
 
 Gray Black: #4D4D4D
 
+![Gray Black](https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/colors/Black_Gray_Primary.jpg) 
+
 Light Gray: #F2F2F2
+
+![Light Gray](https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/colors/Light_Gray_Primary.jpg) 
 
 Polka Magenta: #D64CA8
 
+![Polka Magenta](https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/colors/Polka_Magenta_Primary.jpg)
+
+
+
+### Secondary Colors
 
 Polka Magenta 2: #D85DA1
 
+![Polka Magenta 2](https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/colors/Polka_Magenta_Secondary.jpg)
+
 Lighter Gray: #F8F8F8
+
+![Lighter Gray](https://github.com/mariapaulaweb3/Polkadot_Brand_Assets/blob/master/Branding%20elements/colors/Lighter_Gray_Secondary.jpg)
+
+
 
 ## Media kit
 
-Download Lightpaper
+<a href="https://github.com/w3f/polkadot-light-paper/blob/master/Polkadot-lightpaper.pdf">Download Lightpaper</a>
 
