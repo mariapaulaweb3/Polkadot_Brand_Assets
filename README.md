@@ -8,21 +8,29 @@ For commerical usage please contact hello@polkadot.network
 For additonal media inquiries please contact press@polkadot.network
 For non-commercial usage please notify us at hello@polkadot.network
 
+
 ## Polkadot logos (web use - vectorized) 
 
 Polkadot Circle Logo
 Polkadot Dots Logo 
 Polkadot Rectangle Logo  
 
+
 ## Polkadot Brand Colors
 
 Primary colors: 
+
 Gray Black: #4D4D4D
+
 Light Gray: #F2F2F2
+
 Polka Magenta: #D64CA8
 
+
 Polka Magenta 2: #D85DA1
+
 Lighter Gray: #F8F8F8
+
 
 
 Download Lightpaper
