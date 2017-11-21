@@ -31,7 +31,7 @@ Polka Magenta 2: #D85DA1
 
 Lighter Gray: #F8F8F8
 
-
+## Media kit
 
 Download Lightpaper
 
